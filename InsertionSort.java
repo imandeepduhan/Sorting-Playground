@@ -1,5 +1,4 @@
 /*
-Approach:
 Insertion sort builds the sorted array one element at a time. 
 Starting from the second element, each element is compared with the elements before it, 
 and it is inserted into its correct position to maintain descending order. 
